@@ -36,7 +36,11 @@
     "@octokit/rest": "^15.18.3",
     "jest": "^23.6.0",
     "nock": "^9.6.1",
+  <<<<<<< dependabot/npm_and_yarn/semantic-release-17.2.3
     "semantic-release": "^17.4.2",
+  =======
+    "semantic-release": "^12.2.2",
+  >>>>>>> master
     "standard": "^12.0.1"
   },
   "engines": {
